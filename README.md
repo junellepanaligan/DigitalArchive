@@ -1,0 +1,1 @@
+This repository provides a solution for secure digital archive storage designed specifically for notary public services. The project aims to ensure the authenticity, integrity, and confidentiality of notarized documents through robust encryption and secure storage practices.
